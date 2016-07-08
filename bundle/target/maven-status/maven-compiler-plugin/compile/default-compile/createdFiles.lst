@@ -1,0 +1,4 @@
+com\adobe\cq\package-info.class
+com\adobe\cq\impl\HelloServiceImpl.class
+com\adobe\cq\impl\filters\LoggingFilter.class
+com\adobe\cq\HelloService.class
